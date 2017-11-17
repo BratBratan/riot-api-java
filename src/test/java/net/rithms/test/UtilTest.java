@@ -28,6 +28,7 @@ import net.rithms.util.RiotApiUtil;
 
 /**
  * Tests all the utility features provided by the classes in the package {@code net.rithms.util}.
+ commit test
  */
 public class UtilTest {
 
